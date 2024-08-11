@@ -11,18 +11,16 @@ The **CargoGuard** app was developed using Android Studio, with Firebase Realtim
 </details>
 
 <details><summary>## CargoGuard App Screenshots</summary>
-  
-![Welcome Page](https://github.com/user-attachments/assets/ae2c537d-169a-4566-8985-a09a48fa0a5c)
-![Register Page](https://github.com/user-attachments/assets/a1fa3d5a-d94b-4b0b-aa75-b90c1b0e34f4)
-![Login Page](https://github.com/user-attachments/assets/1ddb44d6-fdcf-49d7-9244-745829422872)
-![Home Page](https://github.com/user-attachments/assets/8a7df843-73f0-4ea7-a6ee-013c23b9f022)
-![Navigation Drawer](https://github.com/user-attachments/assets/0f91b39c-5d69-4899-aff6-06ab949410d6)
-![About Page](https://github.com/user-attachments/assets/3357a9b0-ce6f-4611-94f1-89a1ee3a86dd)
-![Truck Tracking Page](https://github.com/user-attachments/assets/da32a0c7-26f5-4b60-a29d-40babb28bc51)
-![Google Map Page](https://github.com/user-attachments/assets/2eaad5ce-7aca-47e1-aae5-d991d8d5e942)
-![Cargo Management Page](https://github.com/user-attachments/assets/1dcac74d-69a6-4767-af8a-d8d961d02335)
-![App Icon View](https://github.com/user-attachments/assets/9718bd97-c33a-4671-b1e1-a652f5dd4ce1)
-
+   <img src="https://github.com/user-attachments/assets/ae2c537d-169a-4566-8985-a09a48fa0a5c" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/a1fa3d5a-d94b-4b0b-aa75-b90c1b0e34f4" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/1ddb44d6-fdcf-49d7-9244-745829422872" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/8a7df843-73f0-4ea7-a6ee-013c23b9f022" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/0f91b39c-5d69-4899-aff6-06ab949410d6" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/3357a9b0-ce6f-4611-94f1-89a1ee3a86dd" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/da32a0c7-26f5-4b60-a29d-40babb28bc51" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/2eaad5ce-7aca-47e1-aae5-d991d8d5e942" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/1dcac74d-69a6-4767-af8a-d8d961d02335" width=35% height=35%>
+    <img src="https://github.com/user-attachments/assets/9718bd97-c33a-4671-b1e1-a652f5dd4ce1" width=35% height=35%>
 </details>
 
 ## Features
