@@ -1,4 +1,4 @@
-# Smart_Tracking_Lock
+# Smart_Tracking_Seal
 
 ## Overview
 
