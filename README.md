@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Smart_Tracking_Lock** is an advanced electronic device designed to improve the efficiency and security of goods transported in containers. Featuring a wire-based seal that is reusable, this device ensures both physical security and data integrity. It can be easily attached to containers, providing crucial information about the contents and maintaining the integrity of shipments throughout the journey. With the **CargoGuard** mobile app, users can monitor the lock's real-time location and status.
+The **Smart_Tracking_Seal** is an advanced electronic device designed to improve the efficiency and security of goods transported in containers. Featuring a wire-based seal that is reusable, this device ensures both physical security and data integrity. It can be easily attached to containers, providing crucial information about the contents and maintaining the integrity of shipments throughout the journey. With the **CargoGuard** mobile app, users can monitor the lock's real-time location and status.
 
 The **CargoGuard** app was developed using Android Studio, with Firebase Realtime Database for data storage and Firebase Authentication for user login and management.
 
