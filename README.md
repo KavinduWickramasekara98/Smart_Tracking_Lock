@@ -6,8 +6,8 @@ The **Smart_Tracking_Lock** is an advanced electronic device designed to improve
 
 The **CargoGuard** app was developed using Android Studio, with Firebase Realtime Database for data storage and Firebase Authentication for user login and management.
 
-<details><summary>## Physical View of the Device</summary>
-![Device](https://github.com/user-attachments/assets/2dee796b-4185-4bf3-beac-10408e024f9b)
+<details><summary>Physical View of the Device</summary>
+   <img src="https://github.com/user-attachments/assets/2dee796b-4185-4bf3-beac-10408e024f9b" width=35% height=35%>
 </details>
 
 <details><summary>## CargoGuard App Screenshots</summary>
