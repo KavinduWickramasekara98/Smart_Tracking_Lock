@@ -10,7 +10,7 @@ The **CargoGuard** app was developed using Android Studio, with Firebase Realtim
    <img src="https://github.com/user-attachments/assets/2dee796b-4185-4bf3-beac-10408e024f9b" width=35% height=35%>
 </details>
 
-<details><summary>## CargoGuard App Screenshots</summary>
+<details><summary>CargoGuard App Screenshots</summary>
    <img src="https://github.com/user-attachments/assets/ae2c537d-169a-4566-8985-a09a48fa0a5c" width=35% height=35%>
     <img src="https://github.com/user-attachments/assets/a1fa3d5a-d94b-4b0b-aa75-b90c1b0e34f4" width=35% height=35%>
     <img src="https://github.com/user-attachments/assets/1ddb44d6-fdcf-49d7-9244-745829422872" width=35% height=35%>
